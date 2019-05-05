@@ -19,6 +19,27 @@ namespace WebApplication2
     public class AkıllıHaber : System.Web.Services.WebService
     {
         [WebMethod]
+        public DataSet YazarArama(string kullaniciadi)
+        {
+            Yazar member = new Yazar();
+
+
+
+            string query = String.Format("SELECT YazarID FROM Yazar WHERE KullaniciAdi Like '%" + kullaniciadi + "%'");
+            return ExecuteQueryab(query);
+        }
+
+        public DataSet ExecuteQueryab(string query)
+        {
+            SqlConnection con = new SqlConnection("workstation id=HaberDB.mssql.somee.com;packet size=4096;user id=senanurkiraz_SQLLogin_1;pwd=njas7u5ikz;data source=HaberDB.mssql.somee.com;persist security info=False;initial catalog=HaberDB");
+            con.Open();
+            SqlDataAdapter da = new SqlDataAdapter(query, con);
+            da.SelectCommand.ExecuteNonQuery();
+            DataSet dt = new DataSet();
+            da.Fill(dt);
+            return dt;
+        }
+        [WebMethod]
         public DataSet Kategori()
         {
             Kategori member = new Kategori();
@@ -142,13 +163,13 @@ namespace WebApplication2
             return result;
         }
         [WebMethod]
-        public bool AddYazar(string yazaradi)
+        public bool AddYazar(string yazaradi,string kullaniciadi)
         {
             Yazar member = new Yazar();
 
 
             member.YazarAdi = yazaradi;
-       
+            member.KullaniciAdi = kullaniciadi;
 
 
             bool result = false;
