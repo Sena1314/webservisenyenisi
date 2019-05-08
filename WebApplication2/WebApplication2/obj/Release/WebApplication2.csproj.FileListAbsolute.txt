@@ -58,3 +58,15 @@ C:\Users\senam\source\repos\WebApplication2\WebApplication2\obj\Release\WebAppli
 C:\Users\senam\source\repos\WebApplication2\WebApplication2\obj\Release\WebApplication2.csproj.CopyComplete
 C:\Users\senam\source\repos\WebApplication2\WebApplication2\obj\Release\WebApplication2.dll
 C:\Users\senam\source\repos\WebApplication2\WebApplication2\obj\Release\WebApplication2.pdb
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\obj\Release\WebApplication2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\obj\Release\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\obj\Release\WebApplication2.csproj.CopyComplete
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\obj\Release\WebApplication2.dll
+C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\obj\Release\WebApplication2.pdb

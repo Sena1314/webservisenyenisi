@@ -6,17 +6,17 @@ bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilg
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\senam\source\repos\WebApplication2\WebApplication2\bin\Release\Publish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\webservisenyenisi-master\WebApplication2\WebApplication2\bin\Release\Publish</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="AkıllıHaber.asmx">
-      <publishTime>03/03/2019 16:57:52</publishTime>
+      <publishTime>05/08/2019 13:35:55</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
-      <publishTime>06/07/2018 11:03:48</publishTime>
+      <publishTime>05/08/2019 13:36:13</publishTime>
     </File>
     <File Include="bin/EntityFramework.SqlServer.dll">
-      <publishTime>06/07/2018 11:03:48</publishTime>
+      <publishTime>05/08/2019 13:36:12</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>05/24/2018 13:38:22</publishTime>
@@ -160,10 +160,10 @@ bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilg
       <publishTime>05/24/2018 13:38:24</publishTime>
     </File>
     <File Include="bin/WebApplication2.dll">
-      <publishTime>03/14/2019 12:49:55</publishTime>
+      <publishTime>05/08/2019 13:47:45</publishTime>
     </File>
     <File Include="bin/WebApplication2.pdb">
-      <publishTime>03/14/2019 12:49:55</publishTime>
+      <publishTime>05/08/2019 13:47:45</publishTime>
     </File>
     <File Include="Model1.edmx.diagram">
       <publishTime>03/03/2019 17:00:12</publishTime>
@@ -174,8 +174,11 @@ bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilg
     <File Include="Model3.edmx.diagram">
       <publishTime>03/12/2019 22:01:20</publishTime>
     </File>
+    <File Include="Model5.edmx.diagram">
+      <publishTime>05/08/2019 13:35:57</publishTime>
+    </File>
     <File Include="Web.config">
-      <publishTime>03/14/2019 12:49:56</publishTime>
+      <publishTime>05/08/2019 13:47:46</publishTime>
     </File>
   </ItemGroup>
 </Project>
